@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    outline: none;
+}
+
+body{
+    background: url(./OIP.jpeg);
+    align-content: center;
+    padding: 20px;
+    
+}
+
+.box{
+    background: transparent;
+    
+}
